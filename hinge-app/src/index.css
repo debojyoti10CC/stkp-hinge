@@ -1,0 +1,5 @@
+/* Removed default Vite styles to avoid conflicts */
+html, body {
+  margin: 0;
+  padding: 0;
+}
