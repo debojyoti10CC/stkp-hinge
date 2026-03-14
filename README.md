@@ -21,7 +21,7 @@ When two users match and schedule a meetup, both place a small commitment deposi
 Over time, users build a **Social Proof Score** that reflects how consistently they show up and complete meetups.
 
 ---
-
+```mermaid
 flowchart TD
 
 A[User Opens App] --> B{User Registered?}
@@ -94,6 +94,7 @@ AI -- No --> AK[Return to Discovery]
 
 AJ --> AL[Optional Long-Term Rewards]
 AK --> G
+```
 
 # Key Features
 
